@@ -1,0 +1,7 @@
+C:\Users\Ramaseshan-Laptop\source\repos\ZohoRoundOne\ZohoRoundOne\bin\Debug\ZohoRoundOne.exe.config
+C:\Users\Ramaseshan-Laptop\source\repos\ZohoRoundOne\ZohoRoundOne\bin\Debug\ZohoRoundOne.exe
+C:\Users\Ramaseshan-Laptop\source\repos\ZohoRoundOne\ZohoRoundOne\bin\Debug\ZohoRoundOne.pdb
+C:\Users\Ramaseshan-Laptop\source\repos\ZohoRoundOne\ZohoRoundOne\obj\Debug\ZohoRoundOne.csprojAssemblyReference.cache
+C:\Users\Ramaseshan-Laptop\source\repos\ZohoRoundOne\ZohoRoundOne\obj\Debug\ZohoRoundOne.csproj.CoreCompileInputs.cache
+C:\Users\Ramaseshan-Laptop\source\repos\ZohoRoundOne\ZohoRoundOne\obj\Debug\ZohoRoundOne.exe
+C:\Users\Ramaseshan-Laptop\source\repos\ZohoRoundOne\ZohoRoundOne\obj\Debug\ZohoRoundOne.pdb
